@@ -68,6 +68,4 @@ Before importing color-claim-sass in your project, create a variable `$_silent` 
 
 All classes will still be available in Sass, just use `@extend %color-claim[-bg/-text/-inv]-#{$color}`.
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/SXH7ZmV8YYXzxLZF9dCVxN6W/jeroenptrs/color-claim-sass'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/SXH7ZmV8YYXzxLZF9dCVxN6W/jeroenptrs/color-claim-sass.svg' />
-</a>
+<a href="https://www.buymeacoffee.com/6QmhM2xDG" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
